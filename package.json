@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "vanan-i3",
+  "title": "VANAN",
+  "displayName": "VANAN",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "i3 colors",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
